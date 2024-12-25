@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+img{
+	height:200px;
+	width:250px;
+	object-fit:cover;
+}
+.hero{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	/* padding:20px; */
+}
+.explore{
+	padding:5px;
+	color:white;
+	background-color: orangered;
+	border-radius:10%;
+}
